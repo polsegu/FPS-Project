@@ -1,4 +1,4 @@
-# FPS-Project
+# FPS Project
 ![IMG_20170720_144128_466](https://i.postimg.cc/tJ2X9Tty/ue-fps.jpg)
 > [!NOTE]
 > This repository serves as a personal educational project and is not intended for commercial or economic purposes. All content within this repository is solely for educational use and does not represent financial advice or strategies.
